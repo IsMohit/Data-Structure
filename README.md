@@ -7,3 +7,4 @@
 5] Stack_DL -> Stack using Doubly LinkedList  
 6] Queue_DL -> Queue using Doubly LinkedList  
 7] Binary_tree -> Implementation of Binary tree and its traversals  
+8] BalancedPar -> Checking is Parentheses are balanced or not  
